@@ -1,41 +1,35 @@
 # Hi there, I'm rdin777 👋
-### Senior ZK-EVM Contributor & Security Auditor
+**L2 Core Contributor | Blockchain Security & Architecture**
 
-I am an active contributor to the Ethereum L2 ecosystem, focusing on the architectural integrity, prover stability, and security of ZK-proof systems. Recently, I completed a "contribution marathon" across **Linea**, **ZKsync**, and **Scroll**, addressing critical bottlenecks in tracer logic and system constants.
-
----
-
-## 🚀 Recent Contributions (L2 Marathon)
-
-### 1. Linea (Consensys) — ZkTracer Architecture
-* **Issue**: Resolved the decoupling of reported line counts from actual trace height in arithmetic modules (**Issue #1955**).
-* **Solution**: Refactored `computeLineCount()` logic in `MulOperation.java` and `ExpOperation.java` to support dynamic row calculation based on instruction complexity.
-* **Impact**: Eliminated "silent errors" and `null` row padding in `.1t` trace files, ensuring stable proof generation and providing the foundation for the upcoming "small fields" update.
-
-### 2. ZKsync Era — Prover Refactoring
-* **Contribution**: Optimized system parameters in the prover codebase (**PR #1230**).
-* **Action**: Conducted a comprehensive refactoring of magic constants into named parameters to improve security auditability.
-* **Result**: Enhanced code maintainability and transparency for the core proof generation pipeline.
-
-### 3. Scroll — Gas Pricing & Technical Documentation
-* **Analysis**: Identified discrepancies in gas limit constants within the rollup infrastructure (**Issue #407**).
-* **Outcome**: Initiated updates to the technical documentation regarding gas hardcoding, preventing dApp developers from encountering transaction estimation errors on the Scroll network.
+I focus on the architectural integrity, prover stability, and security of Ethereum Layer 2 ecosystems. I recently completed a "contribution marathon" across **Arbitrum**, **Linea**, and **ZKsync**, solving critical bottlenecks in node logic and proof generation.
 
 ---
 
-## 🛠 Technical Stack
-* **ZK-EVM**: Trace expansion logic, Arithmetic circuits, Constraint validation.
-* **Languages**: Java/Kotlin (ZkTracer), Rust (Prover logic), Solidity.
-* **Tools**: Gradle, Geth/Besu internals, Corset/Zkasm, Hardhat.
+### 🚀 Recent Contributions (L2 Marathon)
+
+#### 1. Arbitrum (Offchain Labs) — Node Integrity
+* **Issue:** Prevented database corruption during node reorgs ([#4098](https://github.com/OffchainLabs/nitro/issues/4098)).
+* **Solution:** Implemented pre-initialization state validation in `cmd/nitro/init.go` (PR [#4163](https://github.com/OffchainLabs/nitro/pull/4163)).
+* **Impact:** Eliminated risks of "bricking" nodes during rollbacks, protecting operator databases from inconsistency.
+
+#### 2. Linea (Consensys) — ZkTracer Architecture
+* **Issue:** Fixed decoupling of line counts from trace height in arithmetic modules (Issue #1955).
+* **Solution:** Refactored `computeLineCount()` logic in Java-based tracers to support dynamic complexity.
+* **Impact:** Ensured stable proof generation and eliminated "silent errors" in trace files.
+
+#### 3. ZKsync Era — Prover & CI Optimization
+* **Contribution:** Refactored magic constants into named parameters to improve system auditability (PR #1230).
+* **Action:** Optimized GitHub Actions for the core proof generation pipeline to speed up CI/CD cycles.
+* **Result:** Enhanced code maintainability and transparency for the prover infrastructure.
 
 ---
 
-## 📈 Professional Highlights
-* **Deep Architectural Insight**: Proven ability to trace and fix issues from high-level EVM opcodes down to low-level trace row generation.
-* **Security-First Approach**: Focused on eliminating hardcoded constants and silent failure points that compromise prover reliability.
+### 🛠 Tech Stack
+* **Languages:** Go (Nitro/Geth Core), Java (ZkTracer), Rust (Provers).
+* **Tools:** Ethereum rawdb, Pebble DB, ZK-proof systems, GitHub Actions.
 
 ---
 
-### 📬 Connect with me:
-* **GitHub**: [rdin777](https://github.com/rdin777)
-* **Status**: Open to collaborations on ZK-infrastructure and Ethereum L2 scaling.
+### 📫 Connect with me
+* **GitHub:** [rdin777](https://github.com/rdin777)
+* **Email:** rdin35051@gmail.com
