@@ -3,6 +3,11 @@
 
 Expert in blockchain infrastructure, node stability, and high-performance Go development. Focused on enhancing Layer 2 protocols and ensuring data integrity.
 
+### 🚀 Recent Open Source Work
+* **[go-ethereum](https://github.com/ethereum/go-ethereum/pull/33498):** Refactored core codebase by removing deprecated vulnerability logic (-815 lines).
+* **[Tezsign Security](https://gist.github.com/rdin777/...):** Engineered a hardened 24MB minimal Linux kernel for RK3566-based hardware signing devices.
+* **[Arbitrum Nitro](https://github.com/OffchainLabs/nitro/pull/4163):** Improved state validation logic to prevent database corruption.
+
 ### 🏛 Core Contributions
 - **[Offchain Labs / Nitro](https://github.com/OffchainLabs/nitro)**
   - **[PR #4163](https://github.com/OffchainLabs/nitro/pull/4163)**: Fixed a critical database corruption vulnerability during node reorgs.
