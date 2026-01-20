@@ -30,6 +30,11 @@ I focus on the architectural integrity, prover stability, and security of Ethere
 For the bounty payout, I prefer using my MetaMask (EVM compatible) address: 0xBDDD7973D0DE27B715A4A5cbdb87d0DF78757b3A 
 You can send the funds in USDT/USDC or any other token on Ethereum, BSC, or Polygon networks. Thank you!
 
+### 💰 Bounty & Donations
+**MetaMask (EVM):** 0xBDDD7973D0DE27B715A4A5cbdb87d0DF78757b3A 
+*Accepting: USDT / USDC / ETH / MATIC*
+
+
 
 ---
 
