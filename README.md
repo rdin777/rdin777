@@ -28,11 +28,12 @@ Expert in blockchain infrastructure, node stability, and high-performance Go dev
 I focus on the architectural integrity, prover stability, and security of Ethereum Layer 2 ecosystems. I recently completed a "contribution marathon" across **Arbitrum**, **Linea**, and **ZKsync**, solving critical bottlenecks in node logic and proof generation.
 
 For the bounty payout, I prefer using my MetaMask (EVM compatible) address: 0xBDDD7973D0DE27B715A4A5cbdb87d0DF78757b3A 
-You can send the funds in USDT/USDC or any other token on Ethereum, BSC, or Polygon networks. Thank you!
+You can send the funds in USDT/USDC/ETH or any other token on Ethereum, BSC, Arbitrum, Base networks. Thank you!
+
 
 ### 💰 Bounty & Donations
 **MetaMask (EVM):** 0xBDDD7973D0DE27B715A4A5cbdb87d0DF78757b3A 
-*Accepting: USDT / USDC / ETH / MATIC*
+Accepting: USDT / USDC / ETH / MATIC
 
 
 
