@@ -3,6 +3,20 @@
 
 Expert in blockchain infrastructure, node stability, and high-performance Go development. Focused on enhancing Layer 2 protocols and ensuring data integrity.
 
+Blockchain & Web3 Security Research
+
+In this repository I collect my findings as part of the Bug Bounty programs.
+
+Vulnerabilities found:
+
+CSWSH (Cross-Site WebSocket Hijacking) — Backpack Exchange.
+
+IDOR / Data Injection — Analytics endpoints (Amplitude).
+
+Tools: Python, Requests, Burp Suite.
+https://hackenproof.com/hackers/rdin777
+
+
 ### 🚀 Recent Open Source Work
 * **[go-ethereum](https://github.com/ethereum/go-ethereum/pull/33498):** Refactored core codebase by removing deprecated vulnerability logic (-815 lines).
 * **[Tezsign Security](https://gist.github.com/rdin777/...):** Engineered a hardened 24MB minimal Linux kernel for RK3566-based hardware signing devices.
