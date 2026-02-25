@@ -1,4 +1,7 @@
 # Hi, I'm Rim Dinov 👋
+
+https://github.com/rdin777/vessel-security-research/tree/main
+
 Markdown
 * **[Node Panic (DoS) in Optimism-Geth (op-geth)](https://github.com/rdin777/op-stack-state-panic)** — Found a Nil Pointer Dereference in the state journal management (Base/Optimism L2 infrastructure).
 
@@ -11,6 +14,8 @@ Blockchain & Web3 Security Research
 In this repository I collect my findings as part of the Bug Bounty programs.
 
 Vulnerabilities found:
+
+* **[Argument Injection in Nubank Vessel](https://github.com/rdin777/vessel-security-research)** — Security audit of a Clojure-based container management tool. Identified unsanitized input vectors in CLI arguments that could lead to RCE in CI/CD pipelines.
 
 CSWSH (Cross-Site WebSocket Hijacking) — Backpack Exchange.
 
