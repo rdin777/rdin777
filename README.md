@@ -1,4 +1,7 @@
 # Hi, I'm Rim Dinov 👋
+Markdown
+* **[Node Panic (DoS) in Optimism-Geth (op-geth)](https://github.com/rdin777/op-stack-state-panic)** — Found a Nil Pointer Dereference in the state journal management (Base/Optimism L2 infrastructure).
+
 **Blockchain Engineer | L2 Core Contributor**
 
 Expert in blockchain infrastructure, node stability, and high-performance Go development. Focused on enhancing Layer 2 protocols and ensuring data integrity.
