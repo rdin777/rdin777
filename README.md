@@ -1,6 +1,28 @@
 # Hi, I'm Rim Dinov 👋
 
-https://github.com/rdin777/vessel-security-research/tree/main
+## 👨‍💻 About Me
+
+I am a **Security Researcher & Blockchain Engineer** specializing in infrastructure audits, L2 protocols, and internal tooling security. My approach combines deep static code analysis (SAST) with dynamic testing (strace, fuzzing) to uncover critical flaws in complex systems.
+
+### 🛡️ Featured Security Research
+
+#### **Blockchain & L2 (Optimism/Base)**
+* **[Node Panic (DoS) in op-geth](https://github.com/rdin777/op-stack-state-panic)** — Discovered a state management flaw leading to node instability in the Optimism/Base stack.
+
+#### **Infrastructure & Fintech (Nubank Audit)**
+A comprehensive security review of Nubank's internal tooling (Vessel), identifying multiple attack vectors:
+* **Critical RCE**: Identified Server-Side Code Injection in image building logic (Clojure).
+* **Argument Injection**: Demonstrated shell escape via unsanitized CLI parameters.
+* **Sensitive Data Exposure**: Uncovered plaintext credential leakage in application logs.
+* **Resource Exhaustion**: Application-level DoS via unsafe EDN parsing.
+
+### 🛠️ Tech Stack
+* **Languages**: Go, Clojure, Python, Solidity, Java.
+* **Tools**: Strace, Geth, Docker, Burp Suite, Metasploit.
+* **Specialization**: L2 Core, CI/CD Security, Cryptography, Infrastructure Hardening.
+
+---
+*“I don’t just find bugs; I analyze the architecture to prevent entire classes of vulnerabilities.”*
 
 Markdown
 * **[Node Panic (DoS) in Optimism-Geth (op-geth)](https://github.com/rdin777/op-stack-state-panic)** — Found a Nil Pointer Dereference in the state journal management (Base/Optimism L2 infrastructure).
