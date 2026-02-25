@@ -37,6 +37,8 @@ In this repository I collect my findings as part of the Bug Bounty programs.
 
 Vulnerabilities found:
 
+* **[P1 Critical: Cronos Devnet Infrastructure Flaw](https://github.com/rdin777/cronos-infrastructure-security)** — Identification of a critical misconfiguration in Cronos Devnet environments allowing for infrastructure-level compromise.
+
 Markdown
 * **[Critical RCE in Nubank Vessel Builder](https://github.com/rdin777/vessel-rce-research)** — Deep code audit of Clojure-based image builder identifying a Server-Side Injection vector (RCE) via unsanitized input in build configurations.
 
