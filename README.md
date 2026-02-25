@@ -15,6 +15,8 @@ In this repository I collect my findings as part of the Bug Bounty programs.
 
 Vulnerabilities found:
 
+* **[Application-Level DoS in vessel.misc/read-string](https://github.com/rdin777/vessel-edn-dos-research)** — Exploiting unsafe EDN parsing in Nubank's Vessel tool to cause resource exhaustion and service denial.
+
 * **[Sensitive Data Exposure in vessel.jib.pusher](https://github.com/rdin777/vessel-credential-leak-research)** — Research on plaintext credential leakage in application error logs during registry push operations.
 
 * **[Argument Injection in Nubank Vessel](https://github.com/rdin777/vessel-security-research)** — Security audit of a Clojure-based container management tool. Identified unsanitized input vectors in CLI arguments that could lead to RCE in CI/CD pipelines.
