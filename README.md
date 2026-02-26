@@ -42,6 +42,8 @@ https://github.com/rdin777/linea-rpc-exposure-research/tree/main
 Markdown
 #### **Fintech & Infrastructure (Nubank Audit)**
 > 📝 **Read the Full Research:** [Anatomy of a Build Tool Vulnerability](https://medium.com/@rdin777/anatomy-of-a-build-tool-vulnerability-auditing-nubanks-vessel-dd824a73f99d)
+> https://medium.com/@rdin777/hunting-for-deterministic-panic-in-layer-2-infrastructure-a-deep-dive-into-op-geth-83219f3e26e1
+
 
 
 * **[Critical RCE in Vessel Builder](https://github.com/rdin777/vessel-rce-research)** — Implementation of Argument Injection in Clojure-based build systems.
