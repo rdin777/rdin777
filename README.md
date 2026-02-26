@@ -37,6 +37,8 @@ In this repository I collect my findings as part of the Bug Bounty programs.
 
 Vulnerabilities found:
 
+https://github.com/rdin777/linea-rpc-exposure-research/tree/main
+
 Markdown
 #### **Fintech & Infrastructure (Nubank Audit)**
 > 📝 **Read the Full Research:** [Anatomy of a Build Tool Vulnerability](https://medium.com/@rdin777/anatomy-of-a-build-tool-vulnerability-auditing-nubanks-vessel-dd824a73f99d)
