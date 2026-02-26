@@ -39,7 +39,8 @@ Vulnerabilities found:
 
 Markdown
 #### **Fintech & Infrastructure (Nubank Audit)**
-> 📝 **Read the Full Research:** [Anatomy of a Build Tool Vulnerability](https://medium.com/@levp254/anatomy-of-a-build-tool-vulnerability-auditing-nubanks-vessel-dd824a73f99d)
+> 📝 **Read the Full Research:** [Anatomy of a Build Tool Vulnerability](https://medium.com/@rdin777/anatomy-of-a-build-tool-vulnerability-auditing-nubanks-vessel-dd824a73f99d)
+
 
 * **[Critical RCE in Vessel Builder](https://github.com/rdin777/vessel-rce-research)** — Implementation of Argument Injection in Clojure-based build systems.
 * **[Vessel Security Research](https://github.com/rdin777/vessel-security-research)** — Deep dive into `sh.clj` and command execution wrappers.
