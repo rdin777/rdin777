@@ -39,6 +39,8 @@ Vulnerabilities found:
 
 https://github.com/rdin777/linea-rpc-exposure-research/tree/main
 
+🐧 radxa-zero3-minimal-kernel — Lightweight (8.9MB) Linux kernel for RK3566. Fixed ARM64-specific GPU driver memory conflicts.
+
 Markdown
 #### **Fintech & Infrastructure (Nubank Audit)**
 > 📝 **Read the Full Research:** [Anatomy of a Build Tool Vulnerability](https://medium.com/@rdin777/anatomy-of-a-build-tool-vulnerability-auditing-nubanks-vessel-dd824a73f99d)
