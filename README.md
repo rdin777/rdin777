@@ -37,6 +37,9 @@ In this repository I collect my findings as part of the Bug Bounty programs.
 
 Vulnerabilities found:
 
+https://github.com/rdin777/kuru-precision-loss-audit-report/tree/main
+describes a classic problem in Solidity—division before multiplication—which leads to a loss of precision.
+
 https://github.com/rdin777/linea-rpc-exposure-research/tree/main
 
 🐧 radxa-zero3-minimal-kernel — Lightweight (8.9MB) Linux kernel for RK3566. Fixed ARM64-specific GPU driver memory conflicts.
