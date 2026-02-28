@@ -39,6 +39,7 @@ Vulnerabilities found:
 
 https://github.com/rdin777/rujira-ghost-pool/tree/main
 Rujira Ghost Vault: Systemic DoS & Inflation Attack (H-01)
+https://medium.com/@rdin777/e5cd349dd414
 
 https://github.com/rdin777/kuru-precision-loss-audit-report/tree/main
 describes a classic problem in Solidity—division before multiplication—which leads to a loss of precision.
