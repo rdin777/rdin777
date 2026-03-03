@@ -37,6 +37,14 @@ In this repository I collect my findings as part of the Bug Bounty programs.
 
 Vulnerabilities found:
 
+https://github.com/rdin777/rujira-liquidation-vulnerability
+The "Unstoppable" Debt: How a Decimal Mismatch Frozen Liquidations in CosmWasm
+https://medium.com/p/940363ce2437
+
+https://github.com/rdin777/Permanent-loss-of-user-funds-Panoptic]
+Precision Loss in DeFi: When a 0.000001% Difference Leads to 100% Fund Loss
+https://medium.com/p/2613d4893524
+
 https://github.com/rdin777/rujira-ghost-pool/tree/main
 Rujira Ghost Vault: Systemic DoS & Inflation Attack (H-01)
 https://medium.com/@rdin777/e5cd349dd414
