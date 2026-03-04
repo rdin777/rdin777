@@ -37,6 +37,10 @@ In this repository I collect my findings as part of the Bug Bounty programs.
 
 Vulnerabilities found:
 
+Solana Dependency Hell: Why your next audit will start with the desire to quit everything
+https://medium.com/p/98ed9be3ee45
+
+
 https://github.com/rdin777/rujira-liquidation-vulnerability
 The "Unstoppable" Debt: How a Decimal Mismatch Frozen Liquidations in CosmWasm
 https://medium.com/p/940363ce2437
