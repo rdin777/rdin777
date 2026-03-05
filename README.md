@@ -37,6 +37,11 @@ In this repository I collect my findings as part of the Bug Bounty programs.
 
 Vulnerabilities found:
 
+https://github.com/rdin777/-blog.cex.io-Sensitive-Information-Disclosure-via-WordPress-User-Enumeration
+-blog.cex.io-Sensitive-Information-Disclosure-via-WordPress-User-Enumeration
+https://medium.com/@rdin777/how-i-uncovered-employee-data-on-a-crypto-exchange-via-wordpress-misconfiguration-c8723d0cc2c4
+
+
 Solana Dependency Hell: Why your next audit will start with the desire to quit everything
 https://medium.com/p/98ed9be3ee45
 
