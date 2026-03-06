@@ -23,6 +23,8 @@ I am a **Security Researcher & Blockchain Engineer** specializing in infrastruct
 * **Telegram:** [@levp254](https://t.me/levp254)
 * **LinkedIn:** [linkedin.com/in/rdinov](https://linkedin.com/in/yourlink)
 * **Email:** rdin35051@gmail.com
+* [📄 Download my Resume (PDF)](https://github.com/rdin777/rdin777/raw/main/assets/Rim_Dinov_Technical_PR_Resume.pdf)
+
 
 *Available for technical discussions regarding L2 architecture, node security, and ecosystem growth.*
 
