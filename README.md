@@ -1,5 +1,31 @@
 # Hi, I'm Rim Dinov 👋
 
+### Technical Communications & L2 Security Researcher
+*Bridging the gap between deep protocol engineering and strategic technical narratives.*
+
+---
+
+## 👨‍💻 About Me
+I am a **Security Researcher & Blockchain Engineer** specializing in infrastructure audits, L2 protocols, and internal tooling security. My approach combines deep static code analysis (SAST) with dynamic testing (strace, fuzzing) to uncover critical flaws in complex systems and translate them into actionable insights for the ecosystem.
+
+## 🛡️ Featured Security Research
+**Blockchain & L2 (Optimism/Base)**
+* **Node Panic (DoS) in op-geth** — Discovered a state management flaw leading to node instability in the Optimism/Base stack.
+
+## 🚀 Core Contributions
+* **Arbitrum Nitro:** Implemented block state validation (PR #4163) to prevent database corruption.
+* **EigenDA:** Enhanced network resilience via advanced connectivity checks for high-throughput clients.
+* **Ecosystems:** Active contributor to **Linea** and **ZKsync** core infrastructure.
+
+---
+
+## 📬 Connect with me
+* **Telegram:** [@levp254](https://t.me/levp254)
+* **LinkedIn:** [linkedin.com/in/rdinov](https://linkedin.com/in/yourlink)
+* **Email:** rdin35051@gmail.com
+
+*Available for technical discussions regarding L2 architecture, node security, and ecosystem growth.*
+
 ## 👨‍💻 About Me
 
 I am a **Security Researcher & Blockchain Engineer** specializing in infrastructure audits, L2 protocols, and internal tooling security. My approach combines deep static code analysis (SAST) with dynamic testing (strace, fuzzing) to uncover critical flaws in complex systems.
