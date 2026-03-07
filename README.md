@@ -8,6 +8,17 @@
 ## 👨‍💻 About Me
 I am a **Security Researcher & Blockchain Engineer** specializing in infrastructure audits, L2 protocols, and internal tooling security. My approach combines deep static code analysis (SAST) with dynamic testing (strace, fuzzing) to uncover critical flaws in complex systems and translate them into actionable insights for the ecosystem.
 
+## 🛡️ Recent Impact & Security Research
+
+### [GHSA-fh9g-4r27-crcc](https://github.com/NethermindEth/juno/security/advisories/GHSA-fh9g-4r27-crcc) | Nethermind Juno (Starknet)
+* **Status**: 🟠 Triage / High Severity
+* **Impact**: Identified a critical memory safety vulnerability in the Trie implementation. Discovered that pointer aliasing in `Node.Update` when combined with `sync.Pool` leads to non-deterministic state corruption.
+* **Write-up**: [Deep Dive into Trie Node Corruption on HackerNoon](твоя_ссылка_на_hackernoon)
+
+### 🐧 Systems Engineering
+* **[radxa-zero3-minimal-kernel](https://github.com/rdin777/radxa-zero3-minimal-kernel)**: Developing a performance-optimized minimal kernel for Radxa Zero 3.
+* **Community Traction**: Steady interest with **20+ unique clones** bi-weekly, demonstrating expertise in low-level systems and resource-constrained environments.
+
 ## 🛡️ Featured Security Research
 **Blockchain & L2 (Optimism/Base)**
 * **Node Panic (DoS) in op-geth** — Discovered a state management flaw leading to node instability in the Optimism/Base stack.
