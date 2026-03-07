@@ -1,4 +1,5 @@
 # Hi, I'm Rim Dinov 👋
+![Profile Views](https://komarev.com/ghpvc/?username=rdin777&color=0055ff&style=flat-square&label=AUDIT+VISITS)
 
 ### Technical Communications & L2 Security Researcher
 *Bridging the gap between deep protocol engineering and strategic technical narratives.*
