@@ -94,6 +94,7 @@ https://github.com/rdin777/linea-rpc-exposure-research/tree/main
 
 🐧 radxa-zero3-minimal-kernel — Lightweight (8.9MB) Linux kernel for RK3566. Fixed ARM64-specific GPU driver memory conflicts.
 https://github.com/rdin777/radxa-zero3-minimal-kernel/tree/main
+https://app.hackernoon.com/mobile/69a940941121431525a04baf
 
 Markdown
 #### **Fintech & Infrastructure (Nubank Audit)**
