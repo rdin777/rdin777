@@ -193,7 +193,7 @@ Accepting: USDT / USDC / ETH / MATIC
 * **Action:** Optimized GitHub Actions for the core proof generation pipeline to speed up CI/CD cycles.
 * **Result:** Enhanced code maintainability and transparency for the prover infrastructure.
 
-
+<img src="https://ga-beacon.appspot.com/G-VR959LR6DN/rdin777/readme?pixel" style="display:none">
 ---
 
 ### 🛠 Tech Stack
