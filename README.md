@@ -11,6 +11,11 @@ I am a **Security Researcher & Blockchain Engineer** specializing in infrastruct
 
 ### 📈 Trending & High-Impact Research
 
+* **Arbitrum Nitro (L2 Execution Engine)**: 
+  * 🔴 **Critical**: Identified a deterministic **Sequencer Panic (SIGSEGV)** in `triedb` component.
+  * **Status**: ⏳ Report submitted via HackerOne Disclosure Assistance (#3591692).
+  * **Focus**: Go Runtime Safety, Wasm Activation Logic, State Database Consistency.
+
 ### 🛡️ Bug Bounty & Vulnerability Disclosure
 * **Coinbase**: Discovered a **Deterministic Node Panic (DoS)** via Nil Pointer Dereference in `op-geth` core [Report #3509907].
 * **Linea Mainnet**: Identified security flaws in unauthenticated JSON-RPC endpoints.
