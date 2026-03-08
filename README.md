@@ -9,6 +9,16 @@
 ## 👨‍💻 About Me
 I am a **Security Researcher & Blockchain Engineer** specializing in infrastructure audits, L2 protocols, and internal tooling security. My approach combines deep static code analysis (SAST) with dynamic testing (strace, fuzzing) to uncover critical flaws in complex systems and translate them into actionable insights for the ecosystem.
 
+### 📈 Trending & High-Impact Research
+* **[Kuru Precision Loss Audit Report](https://github.com/rdin777/kuru-precision-loss-audit-report)**: 
+  * 🚀 **Viral Engagement**: Over **100+ clones** by the security community within the first weeks.
+  * **Focus**: Advanced mathematical edge cases in DeFi, focusing on rounding errors and dust management.
+  * **Impact**: Widely used as a reference for auditing precision loss in orderbook-based DEXs.
+
+* **[Nethermind / Juno (Starknet)](https://github.com/NethermindEth/juno)**: 
+  * 🛡️ **High-Severity Discovery**: Memory Aliasing in Trie Node Updates ([GHSA-fh9g-4r27-crcc](https://github.com/NethermindEth/juno/security/advisories/GHSA-fh9g-4r27-crcc)).
+  * **Status**: 🟡 Under Triage by the Core Team.
+
 ## 🛡️ Recent Impact & Security Research
 
 ### [GHSA-fh9g-4r27-crcc](https://github.com/NethermindEth/juno/security/advisories/GHSA-fh9g-4r27-crcc) | Nethermind Juno (Starknet)
