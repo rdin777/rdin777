@@ -11,6 +11,21 @@ I am a **Security Researcher & Blockchain Engineer** specializing in infrastruct
 
 ### 📈 Trending & High-Impact Research
 
+### 🛡️ Active Security Audits & Vulnerability Research
+
+* **Arbitrum Nitro (L2 Execution Engine)**
+  * 🔴 **Critical**: Deterministic **Sequencer Panic (SIGSEGV)** in `triedb`.
+  * **Status**: ⏳ Submitted via HackerOne Disclosure Assistance (#3591692).
+
+* **Injective Protocol (Peggy Bridge)**
+  * 🟡 **Medium**: Slashed/Jailed logic vulnerability during Ethereum Key Rotation.
+  * 🔴 **Critical**: Potential **Bridge Hijacking** via unvalidated Valset updates (Analysis of `attestation_handler.go`).
+  * **Status**: 🛠️ Competitive Audit in progress (Code4rena).
+
+* **Nethermind / Juno (Starknet)**
+  * 🟠 **High**: Memory Aliasing in Trie Node Updates (GHSA-fh9g-4r27-crcc).
+  * **Status**: 🟡 Under Triage by the Core Team.
+
 * **Arbitrum Nitro (L2 Execution Engine)**: 
   * 🔴 **Critical**: Identified a deterministic **Sequencer Panic (SIGSEGV)** in `triedb` component.
   * **Status**: ⏳ Report submitted via HackerOne Disclosure Assistance (#3591692).
