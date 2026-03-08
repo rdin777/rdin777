@@ -10,6 +10,13 @@
 I am a **Security Researcher & Blockchain Engineer** specializing in infrastructure audits, L2 protocols, and internal tooling security. My approach combines deep static code analysis (SAST) with dynamic testing (strace, fuzzing) to uncover critical flaws in complex systems and translate them into actionable insights for the ecosystem.
 
 ### 📈 Trending & High-Impact Research
+
+### 🛡️ Bug Bounty & Vulnerability Disclosure
+* **Coinbase**: Discovered a **Deterministic Node Panic (DoS)** via Nil Pointer Dereference in `op-geth` core [Report #3509907].
+* **Linea Mainnet**: Identified security flaws in unauthenticated JSON-RPC endpoints.
+* **OAuth2 Security**: Research on PKCE Enforcement Bypass leading to account takeover risks.
+* **HackerOne Profile**: [rdin777](https://hackerone.com/rdin777) — Active researcher in the Web3/Infrastructure space.
+
 * **[Kuru Precision Loss Audit Report](https://github.com/rdin777/kuru-precision-loss-audit-report)**: 
   * 🚀 **Viral Engagement**: Over **100+ clones** by the security community within the first weeks.
   * **Focus**: Advanced mathematical edge cases in DeFi, focusing on rounding errors and dust management.
