@@ -232,7 +232,7 @@ Accepting: USDT / USDC / ETH / MATIC
 
 
 
-<img src="https://ga-beacon.appspot.com/G-VR959LR6DN/rdin777/readme?pixel" style="display:none">
+
 ---
 
 ### 🛠 Tech Stack
