@@ -13,6 +13,10 @@ I am a **Security Researcher & Blockchain Engineer** specializing in infrastruct
 
 ### 🛡️ Active Security Audits & Vulnerability Research
 
+L1/L2 Infrastructure Audits: Identified critical systemic vulnerabilities in EVM-Cosmos precompiled contracts, including unauthorized asset minting and cross-chain account takeover (ICA).
+
+Interoperability Security: Researching attack vectors in IBC (Inter-Blockchain Communication) and bridge-level access control.
+
 * **Arbitrum Nitro (L2 Execution Engine)**
   * 🔴 **Critical**: Deterministic **Sequencer Panic (SIGSEGV)** in `triedb`.
   * **Status**: ⏳ Submitted via HackerOne Disclosure Assistance (#3591692).
