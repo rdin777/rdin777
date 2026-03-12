@@ -118,6 +118,11 @@ In this repository I collect my findings as part of the Bug Bounty programs.
 
 Vulnerabilities found:
 
+BSC Geth: Deterministic Network Halt (PoC)
+https://github.com/rdin777/bsc-halt-poc
+https://paragraph.com/@levp254@gmail.com/bsc-halt-poc-developing-a-reproduction-environment-for-a-deterministic-node-panic-in-the-bsc-geth-client?referrer=0xBDDD7973D0DE27B715A4A5cbdb87d0DF78757b3A
+
+
 https://github.com/rdin777/-blog.cex.io-Sensitive-Information-Disclosure-via-WordPress-User-Enumeration
 -blog.cex.io-Sensitive-Information-Disclosure-via-WordPress-User-Enumeration
 https://medium.com/@rdin777/how-i-uncovered-employee-data-on-a-crypto-exchange-via-wordpress-misconfiguration-c8723d0cc2c4
