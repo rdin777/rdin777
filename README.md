@@ -9,6 +9,14 @@
 ## 👨‍💻 About Me
 I am a **Security Researcher & Blockchain Engineer** specializing in infrastructure audits, L2 protocols, and internal tooling security. My approach combines deep static code analysis (SAST) with dynamic testing (strace, fuzzing) to uncover critical flaws in complex systems and translate them into actionable insights for the ecosystem.
 
+## 🛡️ Recent Security Research
+* **BSC Geth Panic Discovery:** Identified a deterministic node panic (nil-pointer dereference) in the `state` package. Developed a full PoC using Foundry to reproduce the network halt. 
+    * [Read the full technical breakdown on Paragraph]https://paragraph.com/@levp254@gmail.com/bsc-halt-poc-developing-a-reproduction-environment-for-a-deterministic-node-panic-in-the-bsc-geth-client?referrer=0xBDDD7973D0DE27B715A4A5cbdb87d0DF78757b3A
+
+* **Cronos POS & zkEVM:** Currently investigating node resilience and consensus-level vulnerabilities.
+* **DeFi Auditing:** Researched rounding errors and "ghost debt" mechanics in protocols like Panoptic and Autonolas.
+
+
 ### 📈 Trending & High-Impact Research
 
 ### 🛡️ Active Security Audits & Vulnerability Research
@@ -98,9 +106,10 @@ A comprehensive security review of Nubank's internal tooling (Vessel), identifyi
 * **Resource Exhaustion**: Application-level DoS via unsafe EDN parsing.
 
 ### 🛠️ Tech Stack
-* **Languages**: Go, Clojure, Python, Solidity, Java.
-* **Tools**: Strace, Geth, Docker, Burp Suite, Metasploit.
-* **Specialization**: L2 Core, CI/CD Security, Cryptography, Infrastructure Hardening.
+
+* **Languages:** Go (Geth architecture), Solidity, Python, Clojure, Rust (Foundational).
+* **Tools:** Foundry (Forge/Cast), Hardhat, Linux Kernel Debugging.
+* **Focus:** Smart Contract Security, L1/L2 Infrastructure, Technical Writing.
 
 ---
 *“I don’t just find bugs; I analyze the architecture to prevent entire classes of vulnerabilities.”*
