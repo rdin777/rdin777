@@ -1,6 +1,16 @@
 # Hi, I'm Rim Dinov 👋
 ![Profile Views](https://komarev.com/ghpvc/?username=rdin777&color=0055ff&style=flat-square&label=AUDIT+VISITS)
 
+## 🏆 Recent Achievements
+
+* **Tezos Ecosystem Security Contributor** (March 2026)
+    * Awarded **150 XTZ** bounty by **Tez Capital** for infrastructure hardening and security research.
+    * Optimized **Radxa Rock 5B** kernel configurations for validator stability.
+    * Developed security guidelines for **TezSign** (Air-gapped transaction signing).
+    * [Read the full technical breakdown on Dev.to]
+	https://dev.to/rdin777/infrastructure-as-a-security-frontier-winning-a-150-xtz-bounty-in-the-tezos-ecosystem-1ahb
+
+
 ### Technical Communications & L2 Security Researcher
 *Bridging the gap between deep protocol engineering and strategic technical narratives.*
 
