@@ -20,6 +20,14 @@
 I am a **Security Researcher & Blockchain Engineer** specializing in infrastructure audits, L2 protocols, and internal tooling security. My approach combines deep static code analysis (SAST) with dynamic testing (strace, fuzzing) to uncover critical flaws in complex systems and translate them into actionable insights for the ecosystem.
 
 ### 🔬 Latest Security Research
+
+- [Fortress Protocol: Protecting Web3 from Lazarus Group]
+https://paragraph.com/@levp254@gmail.com/fortress-protocol-how-to-protect-web3-from-apt-level-attacks-lazarus-group?referrer=0xBDDD7973D0DE27B715A4A5cbdb87d0DF78757b3A
+
+- [Gas Surgery: Reducing Merkle Mixer Costs on Base]
+https://paragraph.com/@levp254@gmail.com/gas-surgery-reducing-merkle-mixer-costs-by-25percent-on-base?referrer=0xBDDD7973D0DE27B715A4A5cbdb87d0DF78757b3A
+
+
 I publish daily technical deep-dives on Paragraph. 
 You can support my independent research by collecting articles or holding my writer coin.
 * **Publication:** https://paragraph.com/@levp254@gmail.com/building-a-privacy-mixer-in-solidity-why-my-merkle-proofs-were-failing?referrer=0xBDDD7973D0DE27B715A4A5cbdb87d0DF78757b3A
