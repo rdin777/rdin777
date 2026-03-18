@@ -19,6 +19,12 @@
 ## 👨‍💻 About Me
 I am a **Security Researcher & Blockchain Engineer** specializing in infrastructure audits, L2 protocols, and internal tooling security. My approach combines deep static code analysis (SAST) with dynamic testing (strace, fuzzing) to uncover critical flaws in complex systems and translate them into actionable insights for the ecosystem.
 
+### ✍️ Featured Security Research (Medium)
+- **[Precision Loss in DeFi](https://medium.com/p/2613d4893524):** How 0.000001% difference leads to total fund loss.
+- **[Gas Surgery on Base](https://medium.com/p/55fc9103f044):** Reducing Merkle Mixer costs by 25%.
+- **[CosmWasm Vulnerabilities](https://medium.com/p/e5cd349dd414):** Deep dive into Share Inflation and Interest Bypass.
+- **[Solana Security](https://medium.com/p/98ed9be3ee45):** Navigating the "Dependency Hell" in audits.
+
 ### 🔬 Latest Security Research
 
 - [Fortress Protocol: Protecting Web3 from Lazarus Group]
