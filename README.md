@@ -1,6 +1,22 @@
 # Hi, I'm Rim Dinov 👋
 ![Profile Views](https://komarev.com/ghpvc/?username=rdin777&color=0055ff&style=flat-square&label=AUDIT+VISITS)
 
+## 🔍 Security Research & Findings
+
+This repository contains a Proof of Concept (PoC) for a critical logical vulnerability discovered in Starknet staking attestation flows.
+
+### 📑 Detailed Write-up
+I've published a comprehensive technical breakdown of this vulnerability, explaining how missing identity binding in `Attestation.cairo` can lead to unauthorized reward claims.
+
+👉 **[Read the full article on Paragraph](https://paragraph.com/@levp254@gmail.com/exploit-analysis-bypassing-attestation-logic-in-starknet-staking-protocols
+
+### 🚀 How to run the PoC
+Using `snforge`:
+1. Clone the repo.
+2. Run `snforge test`.
+3. Observe the `test_attestation_bypass` success, demonstrating the vulnerability.
+
+
 ## 🏆 Recent Achievements
 
 * **Tezos Ecosystem Security Contributor** (March 2026)
