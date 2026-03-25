@@ -112,6 +112,7 @@ Interoperability Security: Researching attack vectors in IBC (Inter-Blockchain C
 ---
 
 ## 📬 Connect with me
+* **Twitter:** https://x.com/DinRid56379
 * **Telegram:** [@levp254](https://t.me/levp254)
 * * **Discord:** https://discord.com/levp_01263
 *  * **HackerOne:** https://hackerone.com/rdin777
