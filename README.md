@@ -1,6 +1,57 @@
 # Hi, I'm Rim Dinov 👋
 ![Profile Views](https://komarev.com/ghpvc/?username=rdin777&color=0055ff&style=flat-square&label=AUDIT+VISITS)
 
+Markdown
+# Critical Precision Loss Case Study: Kuru Labs 🛡️
+
+This repository contains a **Proof of Concept (PoC)** and **Foundry Fuzz Tests** for a Critical Precision Loss vulnerability identified in Kuru Labs. 
+
+The bug allows for a **100% loss of user funds** due to improper mathematical scaling (Premature Division).
+
+## 📖 Detailed Analysis & Write-ups
+
+I have published a deep dive into this vulnerability on multiple platforms:
+* **[Paragraph (Web3 Native)](https://paragraph.xyz/@levp254@gmail.com/precision-loss-the-silent-protocol-killer-a-kuru-labs-case-study)** - Technical Case Study
+* **[Dev.to](https://dev.to/rdin777/breaking-defi-math-using-foundry-fuzzing-to-prove-critical-precision-loss-3bc6)** - Technical breakdown for developers
+* **[Twitter (X) Thread](https://x.com/DinRid56379/status/2038118659709698181)** - Quick visual summary
+
+---
+
+## 🔍 The Vulnerability: Premature Division
+
+In Solidity, integer division always rounds down. If division is performed before multiplication, the result can truncate to zero, effectively "burning" the value.
+
+**Vulnerable Pattern:**
+`uint256 bugged = ((p * s) / 1e18) * mult / 1e18;`
+
+**The Fix:**
+`uint256 correct = (p * s * mult) / (1e18 * 1e18);`
+
+---
+
+## ⚡ How to Run the PoC
+
+1. **Install Foundry:**
+   ```bash
+   curl -L [https://foundry.paradigm.xyz](https://foundry.paradigm.xyz) | bash
+   foundryup
+Clone and Test:
+
+Bash
+git clone [https://github.com/rdin777/kuru-precision-loss](https://github.com/rdin777/kuru-precision-loss)
+cd kuru-precision-loss
+forge test -vv
+Run Fuzzing:
+
+Bash
+forge test --match-test testPrecisionLossFuzz --fuzz-runs 10000 -vv
+📊 Results
+As demonstrated in the logs, Foundry identified edge cases where the bugged calculation results in 0, while the correct logic preserves the user's assets.
+
+Author: RimDinov (@rdin777)
+Security Researcher & Smart Contract Auditor
+
+
 ## 🔍 Security Research & Findings
 
 This repository contains a Proof of Concept (PoC) for a critical logical vulnerability discovered in Starknet staking attestation flows.
