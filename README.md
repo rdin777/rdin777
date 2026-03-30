@@ -1,6 +1,8 @@
 # Hi, I'm Rim Dinov 👋
 ![Profile Views](https://komarev.com/ghpvc/?username=rdin777&color=0055ff&style=flat-square&label=AUDIT+VISITS)
 
+* **[GT Protocol Precision Forensics](https://github.com/rdin777/GT-Protocol-Precision-Audit-Case)** — Finding 8-decimal inconsistencies in closed-source trading APIs via network analysis.
+
 Markdown
 # Critical Precision Loss Case Study: Kuru Labs 🛡️
 
