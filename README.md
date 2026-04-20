@@ -1,6 +1,13 @@
 # Hi, I'm Rim Dinov 👋
 ![Profile Views](https://komarev.com/ghpvc/?username=rdin777&color=0055ff&style=flat-square&label=AUDIT+VISITS)
 
+Markdown
+## 🏆 Certifications
+- **Foundry Fundamentals** | Cyfrin Updraft 
+  - Verification ID: `29IAKUC7PD3N`
+  - [View Achievement](https://profiles.cyfrin.io/u/rdin35051/achievements/foundry)
+ 
+
 * **[GT Protocol Precision Forensics](https://github.com/rdin777/GT-Protocol-Precision-Audit-Case)** — Finding 8-decimal inconsistencies in closed-source trading APIs via network analysis.
 
 Markdown
