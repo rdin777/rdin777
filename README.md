@@ -6,7 +6,8 @@ Markdown
 - **Foundry Fundamentals** | Cyfrin Updraft 
   - Verification ID: `29IAKUC7PD3N`
   - [View Achievement](https://profiles.cyfrin.io/u/rdin35051/achievements/foundry)
- 
+
+* ** https://github.com/rdin777/starknet-staking_audit1 - bug audit
 
 * **[GT Protocol Precision Forensics](https://github.com/rdin777/GT-Protocol-Precision-Audit-Case)** — Finding 8-decimal inconsistencies in closed-source trading APIs via network analysis.
 
