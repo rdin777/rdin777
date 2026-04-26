@@ -7,6 +7,13 @@ Markdown
   - Verification ID: `29IAKUC7PD3N`
   - [View Achievement](https://profiles.cyfrin.io/u/rdin35051/achievements/foundry)
  
+  - ## 🔍 Featured Research
+### [KelpDAO & LayerZero: $292M Infrastructure Exploit Analysis](https://github.com/rdin777/kelpdao-incident-analysis)
+* **Deep Dive:** Detailed RCA of the 1-of-1 DVN vulnerability.
+* **Tools:** Invariant monitoring script written in **Clojure**.
+* **PoC:** Automated solvency checks using **Foundry**.
+* **Media:** [Read the full article on DEV.to](https://dev.to/rdin777/how-a-292m-exploit-redefined-cross-chain-security-the-kelpdao-incident-25io)
+ 
   - ## Media & Publications
  
   - 🛡️ Latest Security Research: KelpDAO Exploit Analysis ($292M) — Infrastructure failure & Clojure monitoring.
