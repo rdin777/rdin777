@@ -8,6 +8,9 @@ Markdown
   - [View Achievement](https://profiles.cyfrin.io/u/rdin35051/achievements/foundry)
  
   - ## Media & Publications
+ 
+  - 🛡️ Latest Security Research: KelpDAO Exploit Analysis ($292M) — Infrastructure failure & Clojure monitoring.
+  - 
 * [Full Technical Article on DEV.to](https://dev.to/rdin777/how-a-292m-exploit-redefined-cross-chain-security-the-kelpdao-incident-25io)
 
 * ** https://github.com/rdin777/starknet-staking_audit1 - bug audit
