@@ -6,6 +6,9 @@ Markdown
 - **Foundry Fundamentals** | Cyfrin Updraft 
   - Verification ID: `29IAKUC7PD3N`
   - [View Achievement](https://profiles.cyfrin.io/u/rdin35051/achievements/foundry)
+ 
+  - ## Media & Publications
+* [Full Technical Article on DEV.to](https://dev.to/rdin777/how-a-292m-exploit-redefined-cross-chain-security-the-kelpdao-incident-25io)
 
 * ** https://github.com/rdin777/starknet-staking_audit1 - bug audit
 
