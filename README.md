@@ -7,6 +7,14 @@ Markdown
   - Verification ID: `29IAKUC7PD3N`
   - [View Achievement](https://profiles.cyfrin.io/u/rdin35051/achievements/foundry)
  
+  - 🛡️ Featured Security Research & Audits
+  - ProjectFocusImpact/Key HighlightsStarknet StakingL2 SecurityDeep dive into staking mechanics (245+ clones).
+  - Monetrix ProtocolSmart Contract AuditDiscovered Critical Surplus Double-Counting vulnerability.
+  - Aave V4 AnalysisArchitecture ReviewDetailed post-mortem and risk assessment.
+  - KelpDAO ResearchLiquid StakingComprehensive security analysis of LST mechanisms.
+  - Merkle MixerZero-KnowledgePrivacy-preserving protocol vulnerability research.
+  - feat: add featured research section.
+ 
   - ## 🔍 Featured Research
 ### [KelpDAO & LayerZero: $292M Infrastructure Exploit Analysis](https://github.com/rdin777/kelpdao-incident-analysis)
 * **Deep Dive:** Detailed RCA of the 1-of-1 DVN vulnerability.
