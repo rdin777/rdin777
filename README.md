@@ -45,6 +45,7 @@ I have published a deep dive into this vulnerability on multiple platforms:
 * **[Paragraph (Web3 Native)](https://paragraph.xyz/@levp254@gmail.com/precision-loss-the-silent-protocol-killer-a-kuru-labs-case-study)** - Technical Case Study
 * **[Dev.to](https://dev.to/rdin777/breaking-defi-math-using-foundry-fuzzing-to-prove-critical-precision-loss-3bc6)** - Technical breakdown for developers
 * **[Twitter (X) Thread](https://x.com/DinRid56379/status/2038118659709698181)** - Quick visual summary
+* **https://t.me/rdin777_debugged
 
 ---
 
