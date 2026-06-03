@@ -14,6 +14,16 @@ Markdown
   - KelpDAO ResearchLiquid StakingComprehensive security analysis of LST mechanisms.
   - Merkle MixerZero-KnowledgePrivacy-preserving protocol vulnerability research.
   - feat: add featured research section.
+
+Markdown
+### 🛡️ Security Research & Audits
+I specialize in the architectural analysis of DeFi protocols, focusing on identifying vulnerabilities in access control and centralization risks.
+
+* [**Ether.fi Security Audit**](https://github.com/rdin777/etherfi-audit)
+  * Security analysis of the liquidity withdrawal architecture (PriorityWithdrawalQueue).
+  * Examination of access control patterns (RBAC) via the RoleRegistry.
+  * Assessment of centralization risks and resilience against proxy contract attacks.
+  
  
   - ## 🔍 Featured Research
 ### [KelpDAO & LayerZero: $292M Infrastructure Exploit Analysis](https://github.com/rdin777/kelpdao-incident-analysis)
