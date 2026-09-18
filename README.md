@@ -226,8 +226,8 @@ Interoperability Security: Researching attack vectors in IBC (Inter-Blockchain C
 * * **Discord:** https://discord.com/levp_01263
 *  * **HackerOne:** https://hackerone.com/rdin777
 * **Email:** rdin35051@gmail.com
-* [📄 Download my Resume (PDF)](https://github.com/rdin777/rdin777/raw/main/assets/Rim_Dinov_Technical_PR_Resume.pdf)
-* https://github.com/rdin777/rdin777/blob/main/assets/Rim_Dinov_Technical_PR_Resume.2.pdf
+* [📄 Download my Resume (PDF)]https://github.com/rdin777/rdin777/blob/main/assets/Rim_Dinov_Security_Researcher_CV_EN.pdf
+* https://github.com/rdin777/rdin777/blob/main/assets/Rim_Dinov_Security_Researcher_CV_EN.pdf
 
 *Available for technical discussions regarding L2 architecture, node security, and ecosystem growth.*
 
