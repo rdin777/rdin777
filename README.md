@@ -15,6 +15,15 @@ Markdown
   - Merkle MixerZero-KnowledgePrivacy-preserving protocol vulnerability research.
   - feat: add featured research section.
 
+How I Built a Real-Time Arbitrage Detector on Base with Just 1GB RAM
+https://dev.to/rdin777/how-i-built-a-real-time-arbitrage-detector-on-base-with-just-1gb-ram-57jp
+## 📈 Community Interest
+- 140+ clones in the first 2 weeks
+- 83 unique developers exploring the code
+- Featured on DEV.TO with positive feedback
+https://github.com/rdin777/base_bot
+
+
 Markdown
 ### 🛡️ Security Research & Audits
 I specialize in the architectural analysis of DeFi protocols, focusing on identifying vulnerabilities in access control and centralization risks.
