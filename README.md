@@ -29,9 +29,9 @@ https://github.com/rdin777/base_bot
 • Real-time DEX monitoring via WebSockets
 • Built with Foundry + Viem
 • 298 clones in 2 weeks
-Full code + tutorial: Building an Atomic Arbitrage Bot on Base: From Zero to Live Trading
+tutorial: Building an Atomic Arbitrage Bot on Base: From Zero to Live Trading
 https://dev.to/rdin777/building-an-atomic-arbitrage-bot-on-base-from-zero-to-live-trading-2849
-https://github.com/rdin777/base-arbitrage-project
+Full code https://github.com/rdin777/base-arbitrage-project
 
 
 
