@@ -23,6 +23,17 @@ https://dev.to/rdin777/how-i-built-a-real-time-arbitrage-detector-on-base-with-j
 - Featured on DEV.TO with positive feedback
 https://github.com/rdin777/base_bot
 
+🚀 Just shipped: Atomic Arbitrage Bot on Base L2
+
+• Flash loan integration (zero risk)
+• Real-time DEX monitoring via WebSockets
+• Built with Foundry + Viem
+• 298 clones in 2 weeks
+Full code + tutorial: Building an Atomic Arbitrage Bot on Base: From Zero to Live Trading
+https://dev.to/rdin777/building-an-atomic-arbitrage-bot-on-base-from-zero-to-live-trading-2849
+https://github.com/rdin777/base-arbitrage-project
+
+
 
 Markdown
 ### 🛡️ Security Research & Audits
