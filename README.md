@@ -53,7 +53,9 @@ I specialize in the architectural analysis of DeFi protocols, focusing on identi
 * **Media:** [Read the full article on DEV.to](https://dev.to/rdin777/how-a-292m-exploit-redefined-cross-chain-security-the-kelpdao-incident-25io)
  
   - ## Media & Publications
- 
+
+> 📖 **Latest Article:** [Building an MEV-Protected WebSocket Arbitrage Scanner on Base: A Technical Deep Dive](https://dev.to/rdin777/building-an-mev-protected-websocket-arbitrage-scanner-on-base-a-technical-deep-dive-1djn)
+
   - 🛡️ Latest Security Research: KelpDAO Exploit Analysis ($292M) — Infrastructure failure & Clojure monitoring.
   - 
 * [Full Technical Article on DEV.to](https://dev.to/rdin777/how-a-292m-exploit-redefined-cross-chain-security-the-kelpdao-incident-25io)
