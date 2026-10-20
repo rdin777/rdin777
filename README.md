@@ -27,7 +27,7 @@ What the developers found:
 - Plaintext credentials on-chain
 
 The most common pattern: blockchain developers store API keys as string variables.
-github.com/rdin777/slither-cex-detector
+https://github.com/rdin777/slither-cex-detector
 
 
 
