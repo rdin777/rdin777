@@ -19,6 +19,18 @@ How I Built a Real-Time Arbitrage Detector on Base with Just 1GB RAM
 https://dev.to/rdin777/how-i-built-a-real-time-arbitrage-detector-on-base-with-just-1gb-ram-57jp
 ## 📈 Community Interest
 
+In two weeks, slither-cex-detector has been cloned 60 times.
+
+What the developers found:
+- Hardcoded API keys in CEX interfaces
+- Missing signature verification
+- Plaintext credentials on-chain
+
+The most common pattern: blockchain developers store API keys as string variables.
+github.com/rdin777/slither-cex-detector
+
+
+
 > 📖 **Latest Article:** [Building an MEV-Protected WebSocket Arbitrage Scanner on Base: A Technical Deep Dive](https://dev.to/rdin777/building-an-mev-protected-websocket-arbitrage-scanner-on-base-a-technical-deep-dive-1djn)
 
 - 140+ clones in the first 2 weeks
